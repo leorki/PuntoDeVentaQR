@@ -1,0 +1,8 @@
+{
+  "name": "Punto de Venta QR",
+  "description": "Sistema de punto de venta 100% offline con escáner QR, control de inventario, voz en español, cierres de caja en PDF/Excel y activación criptográfica.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
